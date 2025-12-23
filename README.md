@@ -1,7 +1,6 @@
 # Plane Seat Management System (Java)
 
-A console-based Java application developed as part of a university coursework.
-The system manages airplane seating, allowing users to buy, cancel, and view seats.
+A console-based Java application system that manages airplane seating, allowing users to buy, cancel, and view seats.
 
 ## Features
 - Buy and cancel seats
